@@ -14,3 +14,4 @@
 - ⚡ Fun fact: I have to show my ID to make them believe how old I am. 😄
 
 [![MustafaPicakci's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaPicakci)](https://github.com/MustafaPicakci/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzcihan)
