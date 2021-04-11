@@ -11,4 +11,4 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 
 
-<canvas align="left">[![MustafaPicakci's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaPicakci)](https://github.com/MustafaPicakci/github-readme-stats) </canvas
+![MustafaPicakci's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaPicakci)](https://github.com/MustafaPicakci/github-readme-stats) 
