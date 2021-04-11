@@ -17,5 +17,5 @@
 
 
 
-![MustafaPicakci's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaPicakci)](https://github.com/MustafaPicakci/github-readme-stats) 
+![MustafaPicakci's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaPicakci)]
 
