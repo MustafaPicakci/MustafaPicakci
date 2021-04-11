@@ -8,12 +8,7 @@
 - ⚡ Fun fact: I have to show my ID to make them believe how old I am. 😄
 
 
-<br>
-**Contacts**
-<br>
-<img align="left" alt="Oguz's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
-<a href="https://www.linkedin.com/in/oguzcihan/" target="_blank">LinkedIn</a>
-<br>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 
 
 [![MustafaPicakci's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaPicakci)](https://github.com/MustafaPicakci/github-readme-stats)
