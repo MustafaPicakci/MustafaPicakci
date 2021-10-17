@@ -22,3 +22,4 @@
 <a href="https://www.linkedin.com/in/mustafa-p%C4%B1%C3%A7ak%C3%A7%C4%B1-4b4525174/" target="_blank">LinkedIn</a>
 
 
+![Profile views](https://gpvc.arturio.dev/MustafaPicakci)  
