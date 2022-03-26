@@ -14,7 +14,7 @@
 
 ![MustafaPicakci's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaPicakci) 
 
-![](https://komarev.com/ghpvc/mustafapicakci&color=green)
+![](https://komarev.com/ghpvc/?username=MustafaPicakci&color=green)
 
 ### Contact
 
