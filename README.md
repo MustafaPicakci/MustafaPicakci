@@ -7,7 +7,8 @@
 
 
 
-- ✨ I’m currently learning Vue and Spring Framework
+- ✨ I'm currently developing web applications using java, Spring Framework, Node.js and Vue.
+
 
 
 
