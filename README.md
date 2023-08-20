@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafapicakci" alt="mustafapicakci" /></a> </p>
 
-- 🔭 I’m currently working on **a creating Regtech Platform**
+- 🔭 I’m currently working on creating a **regtech platform** using **Node** and **Vue**
 
-- 💬 Ask me about **Vue, Java and Spring Framework**
+- 💬 Ask me about **Vue, Java, Spring Framework and Hexagonal Architecture :)**
 
 - 📫 How to reach me **mustafapicakci25@gmail.com**
 
