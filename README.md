@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on creating a **regtech platform** using **Node** and **Vue**
 
-- 💬 Ask me about **Vue, Java, Spring Framework and Hexagonal Architecture **
+- 💬 Ask me about **Vue, Java, Spring Framework and Hexagonal Architecture**
 
 - 📫 How to reach me **mustafapicakci25@gmail.com**
 
